@@ -14,5 +14,5 @@ services:
           property: connectionString
 databases:
   - name: inventario_db
-    type: postgresql
+    type: PostgreSQL
     plan: free
