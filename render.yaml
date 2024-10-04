@@ -14,5 +14,5 @@ services:
           property: connectionString
 databases:
   - name: inventario_db
-    type: inventario_db_x2ze
+    type: sql
     plan: free
